@@ -2,7 +2,7 @@
 
 ## Overview
 
-This folder contains all necessary code required to run the Kickstarter Seed experimental study. The basis of the experiment procedure is that participants listen to an audio clip, and then are instructed to rate their agreement of that audio clip on a Likert scale. This procedure is run as a loop for repeated randomized trials over the course of the experiment. The content of the audio clips in the experiment stimuli consists of audio recordings of Canadian political videos available on YouTube Shorts. The procuedure in which the stimuli were gathered are outlined in ```audio_scraper.ipynb``` and ```text_scraper.ipynb```.
+This folder contains all necessary code required to run the Kickstarter Seed experimental study. The basis of the experiment procedure is that participants listen to an audio clip, and then are instructed to rate their agreement of that audio clip on a Likert scale. This procedure is run as a loop for repeated randomized trials over the course of the experiment. The content of the audio clips in the experiment stimuli consists of audio recordings of Canadian political videos available on YouTube Shorts. The procedure in which the stimuli were gathered are outlined in ```audio_scraper.ipynb``` and ```text_scraper.ipynb```.
 
 The experiment is run on JATOS framework, using JsPsych as its method of delivery.
 
