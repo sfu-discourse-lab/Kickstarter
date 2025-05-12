@@ -12,7 +12,11 @@ A local installation of JATOS is required to run the code in this folder. Its in
 
 Within the local machine, ensure that the files are placed within the "study_assets_root" subfolder of the JATOS installation folder.
 
-## Usage of this code with different datasets
+## Usage of the code with different datasets
+
+The code in experiment.html makes a call to ```stimuli.js```, which consists of an array of filepaths 
 
 The file stimuli.js
+
+
 
