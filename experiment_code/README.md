@@ -18,7 +18,7 @@ The code in experiment.html makes a call to the file ```stimuli.js```, which con
 
 ### Usage of the code with different datasets
 
-
+If the file containing the dataset that you wish to use goes by a name other than ```stimuli.js```, you will need to adjust the variable name in ```line 23 (this might be a different line in the final product)``` to reflect on the name of the file you wish to use.
 
 
 
