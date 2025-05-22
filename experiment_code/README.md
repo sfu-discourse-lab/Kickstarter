@@ -8,9 +8,9 @@ The experiment is run on JATOS framework, using JsPsych as its method of deliver
 
 ## Installation & Usage
 
-A local installation of JATOS is required to run the code in this folder. Its installation as well as instructions can be found [here](https://www.jatos.org/Installation.html).
+A local installation of JATOS is required to run the code in this folder. Its installation as well as instructions can be found [here](https://www.jatos.org/Installation.html). The experiment is also hosted on the Language Learning and Development (LangDev) Lab's (GitHub)(JATOS) server.
 
-Within the local machine, ensure that the files are placed within the ```study_assets_root``` subfolder of the JATOS installation folder.
+If the codebase is run off a local machine, ensure that the files are placed within the ```study_assets_root``` subfolder of the JATOS installation folder.
 
 ## Media and Stimuli
 
