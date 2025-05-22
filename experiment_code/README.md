@@ -20,5 +20,9 @@ The code in experiment.html makes a call to the file ```stimuli.js```, which con
 
 If the file containing the dataset that you wish to use goes by a name other than ```stimuli.js```, you will need to adjust the variable name in ```line 23 (this might be a different line in the final product)``` to reflect on the name of the file you wish to use.
 
+## Experimental Flow
+
+The initial flow consists of a block of 10 trials. Upon completion of the first block, subjects are provided with the option to end the study, or to continue rating more clips, of which an additional block can be selected.
+
 
 
